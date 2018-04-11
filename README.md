@@ -1,7 +1,7 @@
 # CDPBC
 A software application for estimation of concentration dependent plasma binding capacity of small molecule
 
-Under Evaluation for publication authored by Dr. Om Prakash and Prof. Upendra Dwivedi (University of Lucknow-226015, India)
+Under Evaluation for publication authored by Dr. Om Prakash and Prof. Upendra Dwivedi (University of Lucknow-226007, India)
 
 Software Link 1:
 Fully compiled package is available at (https://drive.google.com/open?id=18SxWNFMGz0T3tYX90dkYr4hFsLFxiTG-)
